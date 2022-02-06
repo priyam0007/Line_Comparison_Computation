@@ -33,11 +33,17 @@
 	             	{
 	             		System.out.println("Both lines are equale");
 	             	}
+	                 else if (len1 > len2) {
+	                	 
+	             		System.out.println("Line one is greater then line two");
+	                }
 	             	else
 	             	{
-	             		System.out.println("Both lines are not equale");	
+	             		System.out.println("Line one is smaller then line two");
+	             	
+	             			
 	             	}
 	             		
-	 }
+	        }
 
- }
+    }
